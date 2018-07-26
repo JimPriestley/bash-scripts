@@ -1,1 +1,2 @@
+sudo apt-get -y install apt-transport-https
 sudo apt-get -y install curl
